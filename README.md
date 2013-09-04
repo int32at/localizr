@@ -65,3 +65,7 @@ to get the language and create your resource files accordingly!
 
 If you want to change the language based on the server, and the server provides you with the current culture (whether from server side code or javascript), that's cool too!
 In my case, i got it to work with SharePoint just fine - i use `SP.Res.lcid` to decide which language the server is running in and created the files like this: `1033.js`, `1031.js`, etc..
+
+###Requirements?
+
+just jQuery, nothing more.
