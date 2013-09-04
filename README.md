@@ -1,7 +1,7 @@
 localizr.js
 ========
 
-localizr.js provides a simple way to localize your web apps!
+localizr.js provides a simple way to localize your web apps! Check it out in action [here](http://jsfiddle.net/3Jhr9/)!
 
 ###Why?
 Simple - i was not statisfied with the alternatives that are provided by various (i18n) plugins. I had the following scenario when i developed localizr:
